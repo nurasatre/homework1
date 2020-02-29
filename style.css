@@ -61,4 +61,8 @@ h3 {
     list-style-type: round;
   }
   
+  .clearfix 
+  {
+    clear: both;
+  }
   
